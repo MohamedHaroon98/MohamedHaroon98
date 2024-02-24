@@ -32,7 +32,7 @@ Passionate about Open source projects related to DevOps, Kubernetes, and Cloud T
 
 ## 📬 Let's Connect!
 
-Excited to chat, collaborate, and soak in feedback! Reach out anytime:
+Excited to chat, collaborate, and recive feedback! Reach out anytime:
 
 - ✉️ [Email](mailto:mohamedessa736@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-haroon98/)
