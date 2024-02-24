@@ -10,6 +10,7 @@ I'm a DevOps/Site Reliability Engineer (SRE) with a rock-solid history of wrangl
 
 - CKA: Certified Kubernetes Administrator - The Linux Foundation (May 2023 - May 2026)
 - AWS Certified SysOps Administrator – Associate (Feb 2024 - Feb 2027)
+- HashiCorp Certified: Terraform Associate (003) (Feb 2024 - Feb 2027)
 - AWS Certified Cloud Practitioner - AWS (Feb 2023 - Feb 2026)
 - Microsoft Certified: Azure Fundamentals AZ-900 - Microsoft (March 2022)
 - IBM DevOps and Software Engineering Professional Certificate - Coursera
