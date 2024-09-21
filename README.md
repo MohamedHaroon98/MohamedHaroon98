@@ -1,6 +1,6 @@
 # 👨‍💻 Hey there, I'm Mohamed Haroon Aboessa!
 
-I'm a DevOps/Site Reliability Engineer (SRE) with a rock-solid history of wrangling high-traffic environments. Certified in Azure, AWS, IBM, and proudly rocking the Certified Kubernetes Administrator (CKA) badge. Currently on the thrilling quest for the Certified Kubernetes Security Specialist (CKS) certification.
+DevOps/Site Reliability Engineer with over 3 years of experience managing hybrid cloud infrastructures for startups and enterprises. Skilled in Kubernetes migration and resource optimization, reducing costs by up to 85% while maintaining 99.99% uptime. Focused on automation, observability, and DevSecOps practices to ensure security compliance.
 
 ## 🎓 Education
 
